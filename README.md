@@ -459,7 +459,4 @@ Short Attendance (< 75%)   : 5 students
 
 ---
 
-## 28. GitHub Repository
 
-GitHub Repository:  
-To be added after local project verification.
