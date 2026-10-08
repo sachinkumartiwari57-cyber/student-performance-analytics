@@ -390,5 +390,4 @@ The project successfully delivers an automated system capable of loading any com
 
 ---
 
-## 25. GitHub Repository
-[To be added after GitHub upload]
+
