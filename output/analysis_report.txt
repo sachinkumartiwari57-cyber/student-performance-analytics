@@ -1,0 +1,92 @@
+================================================================================
+           STUDENT PERFORMANCE ANALYTICS SYSTEM - ACADEMIC REPORT
+================================================================================
+
+1. DATASET INFORMATION
+--------------------------------------------------------------------------------
+Total Student Records  : 25
+Class-wide Marks Mean  : 69.47
+Marks Std. Deviation   : 18.09
+Overall Highest Mark   : 96
+Overall Lowest Mark    : 28
+
+2. STUDENT-WISE PERFORMANCE
+--------------------------------------------------------------------------------
+Student_ID   Name                   Total    Average    Grade    Result   Attendance_Status
+--------------------------------------------------------------------------------
+STD1001      Aarav Sharma           455      91.00      A+       PASS     Eligible
+STD1002      Priya Patel            459      91.80      A+       PASS     Eligible
+STD1003      Rohan Mehta            385      77.00      B        PASS     Eligible
+STD1004      Ananya Verma           435      87.00      A        PASS     Eligible
+STD1005      Vikram Singh           309      61.80      C        PASS     Eligible
+STD1006      Sneha Rao              403      80.60      A        PASS     Eligible
+STD1007      Rahul Nair             231      46.20      E        PASS     Short Attendance
+STD1008      Neha Gupta             450      90.00      A+       PASS     Eligible
+STD1009      Aditya Joshi           293      58.60      D        PASS     Eligible
+STD1010      Pooja Kulkarni         370      74.00      B        PASS     Eligible
+STD1011      Devendra Kumar         270      54.00      D        FAIL     Short Attendance
+STD1012      Kavita Iyer            411      82.20      A        PASS     Eligible
+STD1013      Arjun Reddy            350      70.00      B        PASS     Eligible
+STD1014      Tanvi Deshmukh         260      52.00      D        PASS     Eligible
+STD1015      Sameer Khan            190      38.00      F        FAIL     Short Attendance
+STD1016      Ritu Choudhary         370      74.00      B        PASS     Eligible
+STD1017      Manav Bansal           427      85.40      A        PASS     Eligible
+STD1018      Ishita Sen             349      69.80      C        PASS     Eligible
+STD1019      Kunal Kapoor           210      42.00      E        PASS     Short Attendance
+STD1020      Divya Menon            459      91.80      A+       PASS     Eligible
+STD1021      Siddharth Malhotra     257      51.40      D        FAIL     Eligible
+STD1022      Riya Sen               396      79.20      B        PASS     Eligible
+STD1023      Harsh Vardhan          165      33.00      F        FAIL     Short Attendance
+STD1024      Shalini Mishra         425      85.00      A        PASS     Eligible
+STD1025      Varun Bhatt            355      71.00      B        PASS     Eligible
+
+3. CLASS PERFORMANCE SUMMARY
+--------------------------------------------------------------------------------
+Overall Class Average  : 69.47
+Highest Average Score  : 91.80
+Lowest Average Score   : 33.00
+Highest Performer      : Priya Patel (STD1002) - Avg: 91.8 (Grade: A+)
+Lowest Performer       : Harsh Vardhan (STD1023) - Avg: 33.0 (Grade: F)
+
+4. SUBJECT-WISE PERFORMANCE
+--------------------------------------------------------------------------------
+Subject            Average    Highest    Lowest     Passed   Failed  
+--------------------------------------------------------------------------------
+Python             70.80      95         35         23       2       
+Mathematics        67.72      94         30         22       3       
+Communication      71.56      94         38         24       1       
+Electronics        65.64      90         28         22       3       
+Data_Analysis      71.64      96         34         24       1       
+--------------------------------------------------------------------------------
+Best Performing Subject    : Data_Analysis (Average: 71.64)
+Weakest Performing Subject : Electronics (Average: 65.64)
+
+5. TOP 3 PERFORMERS
+--------------------------------------------------------------------------------
+Rank   Student Name             Average Marks    Grade    Result
+--------------------------------------------------------------------------------
+1      Priya Patel              91.80            A+       PASS
+2      Divya Menon              91.80            A+       PASS
+3      Aarav Sharma             91.00            A+       PASS
+
+6. PASS / FAIL ANALYSIS
+--------------------------------------------------------------------------------
+Number of Passed Students  : 21
+Number of Failed Students  : 4
+Pass Percentage            : 84.00%
+Fail Percentage            : 16.00%
+
+7. ATTENDANCE ANALYSIS
+--------------------------------------------------------------------------------
+Class Average Attendance   : 82.00%
+Eligible (>= 75%) Count    : 20 students
+Short Attendance (< 75%)   : 5 students
+
+8. FINAL CONCLUSION
+--------------------------------------------------------------------------------
+- The batch has an overall academic average of 69.47 marks.
+- 84.00% of students successfully passed all subjects and met the criteria.
+- Subject 'Data_Analysis' exhibited the highest performance across the cohort.
+- Subject 'Electronics' showed lower averages, indicating area for academic support.
+- 5 student(s) require attendance counseling to meet institutional criteria.
+================================================================================

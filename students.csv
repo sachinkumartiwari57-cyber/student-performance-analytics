@@ -1,0 +1,26 @@
+Student_ID,Name,Department,Python,Mathematics,Communication,Electronics,Data_Analysis,Attendance
+STD1001,Aarav Sharma,Computer Science,92,88,94,85,96,92
+STD1002,Priya Patel,Data Science,95,91,89,90,94,96
+STD1003,Rohan Mehta,Information Technology,78,82,75,70,80,84
+STD1004,Ananya Verma,AI & Machine Learning,88,85,91,82,89,88
+STD1005,Vikram Singh,Electronics & Comm,65,58,62,60,64,78
+STD1006,Sneha Rao,Computer Science,82,79,85,76,81,90
+STD1007,Rahul Nair,Information Technology,45,42,50,48,46,71
+STD1008,Neha Gupta,Data Science,90,94,88,86,92,94
+STD1009,Aditya Joshi,AI & Machine Learning,58,62,60,54,59,82
+STD1010,Pooja Kulkarni,Computer Science,74,70,78,72,76,86
+STD1011,Devendra Kumar,Electronics & Comm,62,35,55,58,60,68
+STD1012,Kavita Iyer,Information Technology,84,80,86,78,83,92
+STD1013,Arjun Reddy,Computer Science,70,68,72,66,74,80
+STD1014,Tanvi Deshmukh,Data Science,52,50,56,48,54,76
+STD1015,Sameer Khan,AI & Machine Learning,38,32,45,35,40,62
+STD1016,Ritu Choudhary,Electronics & Comm,76,72,74,70,78,85
+STD1017,Manav Bansal,Computer Science,89,86,84,80,88,89
+STD1018,Ishita Sen,Data Science,68,74,70,65,72,83
+STD1019,Kunal Kapoor,Information Technology,42,40,44,41,43,65
+STD1020,Divya Menon,AI & Machine Learning,94,92,90,88,95,95
+STD1021,Siddharth Malhotra,Computer Science,55,52,58,38,54,79
+STD1022,Riya Sen,Electronics & Comm,80,78,82,75,81,87
+STD1023,Harsh Vardhan,Information Technology,35,30,38,28,34,55
+STD1024,Shalini Mishra,Data Science,86,84,88,80,87,91
+STD1025,Varun Bhatt,AI & Machine Learning,72,69,75,68,71,82
